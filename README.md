@@ -1,4 +1,4 @@
-# pesonal-website
+# My Personal Website
 
 ## Project setup
 ```
