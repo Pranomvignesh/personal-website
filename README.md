@@ -1,24 +1,8 @@
 # My Personal Website
 
-## Project setup
-```
-npm install
-```
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a7041a0a-86a7-4ac7-aded-687e24cac254/deploy-status)](https://app.netlify.com/sites/pranomvignesh/deploys)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### This is my personal website and I am a Javascript enthusiast.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### This site is built using Vue.js
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
